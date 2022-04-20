@@ -1,0 +1,4 @@
+1. make the fund contract payable,
+set a minimum amout to be paid(aggregators)
+know how much eace person paid
+2. only the owner can be able to withdra
